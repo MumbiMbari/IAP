@@ -13,7 +13,7 @@
     <main>
         <section class='box_shadow signup_section'>
             <div class='img_div'>
-                <img src="resources/profile.jpeg" alt="" class="signup profile">
+                <img src="reg.jpeg" alt="" class="signup profile">
                 <button class="btn_normal">Choose profile picture</button>
             </div>
             <div>
